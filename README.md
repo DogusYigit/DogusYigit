@@ -12,4 +12,4 @@ I am a newly graduated electrical and electronics engineer interested in game de
 
 <details>
  <summary><h3>💿 Coding Journey</h3></summary>
- I started my journey as a naive electrical electronics student. As time passed, I realized that my main interest was in the game world. I took my interest in games from an early age to the next level after I graduated from university and became interested in game development. On this path that I started with Unity and C#, I am passionate about learning everything I can about the world of game development.
+ I embarked on my journey as an inexperienced electrical electronics student. As time progressed, I came to the realization that my true passion lay within the realm of gaming. After graduating from university, I decided to elevate my childhood interest in games to a more serious pursuit and delved into the world of game development. I began this exciting path by diving into Unity and learning C#. My enthusiasm for acquiring comprehensive knowledge about the game development universe continues to drive me forward.
