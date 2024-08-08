@@ -1,5 +1,5 @@
 ### 💻 Doğuş Yiğit Elmalı
-I am a newly graduated electrical and electronics engineer interested in game development. 
+My academic journey has equipped me with a strong foundation in engineering principles, which I integrate with my enthusiasm for coding and software development. I thrive on the challenge of creating innovative solutions and bringing interactive experiences to life through programming.
 
 ---
 ### 🧰 Languages and Tools:
